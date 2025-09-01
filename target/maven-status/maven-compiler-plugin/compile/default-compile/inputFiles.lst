@@ -1,0 +1,7 @@
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/IRepository/IProductoRepository.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/entities/Producto.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/controller/ProductoController.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/controller/ProductoWebController.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/IService/IProductService.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/service/ProductoService.java
+/home/elkin/evidenciasguiasiete/src/main/java/com/example/evidenciasguiasiete/DemoCrudApplication.java
